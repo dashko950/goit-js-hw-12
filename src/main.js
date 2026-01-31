@@ -10,7 +10,7 @@ import {
 
 // iziToast доступен глобально из CDN
 
-const form = document.querySelector('.search-form');
+const form = document.querySelector('.form');
 const loadMoreBtn = document.querySelector('.load-more');
 
 let currentPage = 1;
